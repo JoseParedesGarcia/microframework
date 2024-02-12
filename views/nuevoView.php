@@ -4,7 +4,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>MVC - Modelo, Vista, Controlador - Jourmoly</title>
+	<title>MVC - Modelo, Vista, Coooooontrolador - Jourmoly</title>
 </head>
 
 <body>
